@@ -1,1 +1,1 @@
-Hey, I'm Frankie Rong, a college student studying at DCU. I'm currently on my third year studying computing for business and I've recently branched into machine learning. You can contact me via email :
+### Hey, I'm Frankie Rong, a college student studying at DCU. I'm currently on my third year studying computing for business and I've recently branched into machine learning. You can contact me via email :)
